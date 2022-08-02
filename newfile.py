@@ -8,6 +8,7 @@ if operation =="1":
    f0 = input("put the value of f0 :")
    h = input("put the value of h : ")
    print("f1 - f0")
+   f = int(f1) - int(f0) 
    print(f)
    f2 = int(2)* int(f1) - int(f0) - int(f2)
    print("2f1 - f0 - f2")
