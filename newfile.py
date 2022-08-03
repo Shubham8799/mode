@@ -18,6 +18,5 @@ if operation =="1":
    print("first we have to do multiplication of h ÷ f1 - f0")
    ff3 = int(f22)+ int(l)
    print("so,the last step : additional of l by the solving equation")
-   l2 = int(ff3) + int(l)
-   print(l2)
+   print(ff3) 
    print("programe finished")
