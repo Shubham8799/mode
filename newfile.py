@@ -17,7 +17,8 @@ if operation =="1":
    ff2 = int(f) * int(h)
    print(ff2)
    print("2f1-f0-f2")
-   f22 = int(f2) / int(ff2)
+   import decimal
+   f22 = decimal.Decimal(f2) / decimal.Decimal(ff2)
    print(f22)
    ff3 = int(f22)+ int(l)
    print("so,the last step : additional of l by the solving equation")
