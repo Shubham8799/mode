@@ -1,4 +1,6 @@
-print("1. mode")
+print("1.mode")
+print("2.median") 
+print("3.mean") 
 operation = input("choose number:")
 if operation =="1":
    print("start")
