@@ -18,7 +18,7 @@ if operation =="1":
    print(ff2)
    fh= int(f21)/int(ff2)
    print(fh)
-   ff3 = int(f22)+ int(l)
+   ff3 = int(fh)+ int(l)
    print("so,the last step : additional of l by the solving equation")
    print(ff3) 
    print("programe finished")
