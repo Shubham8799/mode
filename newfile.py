@@ -41,12 +41,12 @@ elif operation =="2":
    ncf2 = int(ncf) * int(h3)
    print(ncf2)
    print("h× n/2 - cf ÷ f")
-    import decimal
-    h2= decimal.Decimal(ncf2)/ decimal.Decimal(f3)
-    print(h2)
-    print("so,our last step")
-    print("l + whole equation")
-    l2 = decimal.Decimal(h2) + decimal.Decimal(l3)
-    print(l2)
-    print("done")
+   import decimal
+   h2= decimal.Decimal(ncf2)/ decimal.Decimal(f3)
+   print(h2)
+   print("so,our last step")
+   print("l + whole equation")
+   l2 = decimal.Decimal(h2) + decimal.Decimal(l3)
+   print(l2)
+   print("done")
    
