@@ -49,4 +49,14 @@ elif operation =="2":
    l2 = decimal.Decimal(h2) + decimal.Decimal(l3)
    print(l2)
    print("done")
+elif operation == "3":
+   #mean
+   print("mean")
+   print("formula of mean: fixi / fi")
+   fixi = input("put the value of fixi : ")
+   fi = input("put the value of fi:")
+   import decimal
+   answer = decimal.Decimal(fixi) /decimal.Decimal(fi)
+   print(answer)
+   print("done😗")
    
