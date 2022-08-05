@@ -60,5 +60,7 @@ elif operation == "3":
    import decimal
    answer = decimal.Decimal(fixi) /decimal.Decimal(fi)
    print(answer)
-   print("done😗")
+else:
+  print(" Invalid input🤨 ") 
+
    
